@@ -3,5 +3,5 @@
   </br>
   <img width="235" height="301" alt="image" src="https://github.com/user-attachments/assets/ac1d2de4-c7ec-44e0-9eaf-b408f041cd0e" />
   </br>
-  <img src="https://komarev.com/ghpvc/?username=mercenariies-username&color=111111&style=round&label=cabinet+of+curiositiesn&abreviated=true">
+  <img src="https://komarev.com/ghpvc/?username=mercenariies-username&color=111111&style=round&label=cabinet+of+curiosities&abreviated=true">
 </div>
